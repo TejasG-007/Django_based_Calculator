@@ -1,4 +1,4 @@
-# RePoSiToRy1
+# django Project
 simple calculator using django(python3.7)
 -----------------------------------------------------------
 home.html --------This html file helps to view the user interface 
